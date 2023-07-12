@@ -1,5 +1,6 @@
 font:
   size: 14
+  family: Hack
 window:
   opacity: 0.92
   padding:
