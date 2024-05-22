@@ -10,13 +10,13 @@ set shiftwidth=4
 set expandtab
 set autoindent
 set fileformat=unix
-filetype indent on      " load filetype-specific indent files
+" filetype indent on      " load filetype-specific indent files
 
 " for tabulation
 set smartindent
 set tabstop=2
 set expandtab
-set shiftwidth=2
+"set shiftwidth=2
 
 inoremap jk <esc>
 
